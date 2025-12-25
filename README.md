@@ -87,4 +87,8 @@ Step 7: Finalize and Export
 
 # Output:
 
+[EX1.pdf](https://github.com/user-attachments/files/24335381/EX1.pdf)
+
 # Result:
+Hence, Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) is created.
+
